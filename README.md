@@ -5,7 +5,7 @@
 ## 💻 Project
 
 - Learning ReactJS;
-- A toggle navbar built using 'useRef' to manipulate the DOM, producing dynamic adjustments to set the more suitable 'height' style property for the links container.
+- A toggle navbar built using 'useRef' hook to manipulate the DOM, producing dynamic adjustments to set the more suitable 'height' style property for the links container.
 
 <p>&nbsp;&nbsp;</p>
 
